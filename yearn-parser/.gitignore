@@ -1,0 +1,11 @@
+/.idea
+**/.settings
+/yearn-parser-api/target
+/yearn-parser-impl/target
+*.iml
+*.log
+/yearn-parser-impl/src/main/resources/data
+/yearn-parser-impl/src/main/resources/edu
+/yearn-parser-impl/src/main/resources/META-INF
+/yearn-parser-impl/src/main/resources/models
+
