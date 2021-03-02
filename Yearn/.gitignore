@@ -1,7 +1,0 @@
-/.idea
-**/.settings
-/target
-/yearn-common/target
-/yearn-engine/target
-*.iml
-*.log
